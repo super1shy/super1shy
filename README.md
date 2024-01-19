@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Svetlana from Moscow, Russia<br><br>- 🔭 I’m looking for a full-stack developer position <br>- 📚 I'm currently learning React, NextJs, NestJs<br>- ⚡ In my free time I also learn Python</p>
+<p align="left">I'm Svetlana from Moscow, Russia<br><br>- 🔭 I’m a full-stack developer <br>- 📚 I'm currently learning NextJs, NestJs<br>- ⚡ In my free time I also learn Python</p>
 
 ###
 
